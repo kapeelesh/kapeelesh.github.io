@@ -15,7 +15,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, I'm Kapeeleshwar Krishana!</h1>
-				<p>I'm best known as the innovative physicist from <em>Princeton University</em> Trust me. <a href="/about">Read more about my life...</a></p>
+				<p>I'm best known as an innovative physicist from <em>Princeton University</em> Trust me. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
